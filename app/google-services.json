@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18162304730",
+    "project_id": "project-uts-14c92",
+    "storage_bucket": "project-uts-14c92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18162304730:android:7b6bd8ebdb3ad5c34287e3",
+        "android_client_info": {
+          "package_name": "com.fariscal_ramadhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD5yDMT1da9zD3RN5N5_NznhqtTegp3m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

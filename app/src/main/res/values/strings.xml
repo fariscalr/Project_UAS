@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Project UAS</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="googleApi">AIzaSyDyCAt5tGpnunmC-mTYcE_V8zS8vvxfXSE</string>
+    <string name="tirta">
+    Tirta Gangga awalnya merupakan sebuah kompleks taman air di Pulau Bali yang kini berkembang menjadi kawasan pariwisata di Kabupaten Karangasem. Pesona alam yang ditawarkan memang indah dan menarik, termasuk keberadaan taman rekreasi air yang ditata dengan apik dan indah.
+    Tempat wisata Bali yang satu ini buka setiap hari, mulai dari jam 07.30 - 18.30 WITA dengan harga tiket masuknya per orang sekitar Rp 30.000 untuk wisatawan lokal.
+    </string>
+    <string name="tegalalang">
+    Tegalalang Rice Terrace memiliki pemandangan yang tidak kalah dengan tempat wisata lainnya. Warna hijau dari padi, pohon, dan rerumputan dapat menyejukkan mata. Pemandangan terasering sawah ini terlihat menakjubkan ketika terkena sinar matahari sore.
+    Daya tarik Tegalalang Rice Terrace selanjutnya adalah spot fotonya yang instagramable. Pengelola telah menyediakan beberapa spot foto khusus untuk para pengunjung yang ingin mengambil gambar.
+    </string>
+    <string name="gunung">
+     Jika Anda suka mendaki, maka Gunung Batur yang terletak di Kintamani, Kabupaten Bangli ini menjadi destinasi yang harus dikunjungi. Gunung ini menawarkan pemandangan matahari terbit yang sangat indah.
+       Gunung Batur memiliki keistimewaan bagi masyarakat Bali, karena dianggap sebagai lingga buana yang memiliki arti penting dalam kehidupan religi masyarakat Bali
+    </string>
+    <string name="maribaya">
+        Curug Maribaya jadi salah satu wisata Bandung terbaik yang harus dikunjungi. Di tempat ini kamu bisa merasakan udara sejuk yang bersih, dengan pemandangan pepohonan hijau. Di sini kamu bisa menikmati pemandangan air terjun, mandi air panas, atau bermain di playground untuk anak-anak.
+    Pada area air terjun Maribaya wisatawan bisa mandi atau berenang di kolam tempat penampungan dari air terjun.
+    </string>
+    <string name="cimahi">
+        Curug Cimahi menjadi salah satu curug tertinggi di Bandung dengan ketinggian mencapai 87 meter. Di siang hari, sekitar jam 13.00-15.00 WIB, kamu juga bisa menyaksikan kemunculan pelangi di ujung bawah air terjun. Di sini udaranya juga dingin dan segar.
+    Curug Cimahi juga dikenal dengan nama Air Terjun Pelangi. Jika beruntung, Kita bisa melihat keindahan pelangi yang terjadi karena pembiasan cahaya matahari oleh titik-titik air sehingga menghasilkan lengkungan spektrum.
+    </string>
+    <string name="malabar">
+        Kebun Teh Malabar merupakan wisata Bandung yang wajib dikunjungi karena keindahannya. Kamu bisa menikmati keindahan alam dengan hamparan hijau pohon teh dan udara yang sejuk. Selain menikmati keindahan pemandangan, kamu juga bisa camping di sini, lho!
+        Ada beragam spot dengan latar estetik yang bisa dijadikan tempat untuk mengabadikan momen-momen tak terlupakan.
+    </string>
+    <string name="panjang">
+        Pantai Panjang merupakan destinasi populer di Kota Bengkulu. Mengutip dari situs Pariwisata Pemprov Bengkulu, Pantai Panjang memiliki air jernih dengan pasir putih halus yang membentang sepanjang 7 km. Pantai ini tergolong unik karena terdapat pohon pinus dan cemara yang membuat suasana makin sejuk dan asri.
+        Tak hanya itu, lokasi pantai ini cukup strategis karena berada di pusat kota sehingga wisatawan mudah untuk datang
+    </string>
+    <string name="benteng">
+        Benteng Marlborough merupakan sebuah aset sejarah dari penjajahan Inggris. Benteng ini memiliki luas 44.000 m2 dan termasuk salah satu bangunan terbesar yang dibangun Inggris di kawasan Asia Tenggara. Selain itu, aset sejarah Bengkulu ini termasuk benteng terkuat kedua setelah St. George di Madras.
+        Keunikan Benteng Marlborough terletak pada desain arsitektur yang menonjolkan nuansa Inggris abad ke-17. Benteng ini ternyata menghadap ke Samudra Hindia.
+    </string>
+    <string name="rumah">
+        Rumah Pengasingan Soekarno menjadi salah satu tempat wisata sejarah populer di Bengkulu. Berdasarkan keterangan Portal Informasi Indonesia, Rumah Pengasingan Soekarno bercorak gaya Eropa dengan warna putih yang khas. Halaman depan penuh dengan rumput hijau seperti rumah-rumah di Eropa.
+        Rumah bersejarah ini menjadi saksi bisu pengasingan Presiden Soekarno ketika masa perjuangan Kemerdekaan Indonesia pada 1938-1942.
+    </string>
+    <string name="kebun">
+        Kebun Raya Bogor yang telah berusia lebih dari dua abad ini merupakan kebun raya tertua di Indonesia. Layaknya hutan di tengah kota, Anda nantinya dapat menikmati panorama kebun raya sekaligus wisata edukasi.
+        Tempat wisata Bogor dengan luas sekitar 87 hektar ini memiliki belasan ribu koleksi tumbuhan yang dikelompokkan ke dalam ribuan jenis, marga, dan suku. Awalnya, Kebun Raya Bogor hanya digunakan sebagai kebun percobaan bagi tanaman perkebunan pada zaman kolonial.
+    </string>
+    <string name="camp">
+        Berada di ketinggian 949-1086 mdpl, Highland Camp Curug Panjang merupakan tempat wisata Bogor yang sangat cocok untuk berkemah. Anda bisa mencoba sensasi berkemah dengan nuansa hutan pegunungan.
+        Kawasan Highland Camp Curug Panjang menawarkan pemandangan air terjun, Taman Kunang-Kunang, wisata edukasi, rute mendaki, jalur telusur sungai, tempat ngopi dengan suasana rimba, serta Taman Kunang-Kunang.
+    </string>
+    <string name="cimory">
+        Satu lagi tempat wisata Bogor yang memberikan pengalaman rekreasi sekaligus edukasi, yaitu Cimory Dairyland. Tempat rekreasi keluarga ini mengusung tema Farm Leisure Park yang menyuguhkan aneka wahana bermain sekaligus kawasan peternakan untuk edukasi anak-anak.
+        Anda dapat menikmati sensasi memberi makan dan berfoto bersama hewan-hewan di peternakan, melihat proses pembuatan yoghurt, memerah susu sapi, hingga berkuda
+    </string>
+    <string name="kapuk">
+        Taman Wisata Alam Angke Kapuk adalah kawasan konservasi alam mangrove yang dimanfaatkan untuk pariwisata dan rekreasi alam. Selain itu, hutan mangrove ini juga berfungsi sebagai tempat habitat dan naungan bagi beberapa jenis satwa liar.
+        Taman Wisata Alam (TWA) Angke Kapuk merupakan area konservasi alam tanaman mangrove yang juga dimanfaatkan untuk pariwisata dan rekreasi alam. Di sini kamu bisa foto-foto, naik perahu menyusuri kawasan hutan bakau, sampai belajar menanam mangrove!
+    </string>
+    <string name="ancol">
+        Ecopark Ancol merupakan kawasan yang jadi sarana rekreasi edutainment dan adventure. Ada empat zona di ecopark ini, yaitu Eco Care, Eco Nature, Eco Art, dan Eco Energy. Di sini kamu bisa mengeksplor botani sambil bermain, sampai belajar soal pemanfaatan energi yang tepat. Selain itu, juga ada banyak wahana yang bisa kamu mainkan seperti sepeda air bebek.
+        Hal lain yang bisa Anda lakukan di tempat ini adalah menikmati berbagai wahana atau fasilitas rekreasi yang ada, seperti The Outbondholic, The Green Mission Paintball, eco bike, eco trike, The Archery Battle, The Learning Farm, The Faunaland, area pemancingan, kano, perahu kayuh, mobil ATV, mobil golf, dll.
+    </string>
+    <string name="Ragunan">
+        Taman Margasatwa Ragunan jadi pilihan favorit warga Jakarta untuk mengajak anak atau sanak keluarga liburan karena jaraknya dekat dan murah. Di sini kamu bisa eksplor berbagai tempat menarik seperti Pusat Primata Schmutzer, Taman Satwa Anak, sampai menonton Pentas Satwa.
+        Kebun Binatang Ragunan merupakan kebun binatang pertama di Indonesia. Kawasannya berada di tanah seluas 147 hektar. Di sana terdapat sekitar 2.000 koleksi satwa dari 200 lebih spesies. Hewan yang ada, meliputi jenis reptil, mamalia, burung-burung, hingga ikan.
+    </string>
+    <string name="bukit">
+        Pemandangan di Bukit Pergasingan ini dapat dibilang tiada duanya. Disebut demikian karena saat mencapai puncak bukit Anda akan menyaksikan indahnya panorama megahnya Gunung Rinjani. Selain itu, terdapat juga hamparan sawah hijau yang luas disertai dengan warna-warninya atap rumah penduduk DesaSembalun dari ketinggian. Pemandangan seindah ini tidak hanya dapat disaksikan melalui lukisan, karena BukitPergasingan menghadirkan perpaduan gunung, sawah, dan pedesaan ini menjadi nyata.
+    </string>
+    <string name="terjun">
+        Berwisata ke tempat ini, Anda akan menemukan suasana alam yang menantang, segarnya udara perbukitan dan sungai belerang yang berkelok-kelok sepanjang jalan menuju air terjun. Dari Desa Sajang Anda membutuhkan waktu sekitar 30 menit berjalan kaki atau mendaki. menapaki jalan dari perkebunan rakyat yang ditanami kopi, alpukat, vanili dan tanaman lainnya. Sesampainya di lokasi air terjun, Anda juga bisa berendam di air belerang. Air belerang yang dipercaya mampu menyembuhkan berbagai jenis penyakit, terutama kulit.
+    </string>
+    <string name="wisata">
+        Wisata Alam Sesaot merupakan salah satu destinasi wisata yang menarik untuk dikunjungi yang berada di kawasan hutan lindung di bawah pengelolaan Balai KPH Rinjani Barat, Dinas Lingkungan Hidup dan Kehutanan Provinsi NTB. Wisata Alam Sesaot terletak di Desa Sesaot, Kecamatan Narmada, Kabupaten Lombok Barat, NTB. Balai Kesatuan Pengelolaan Hutan (BKPH) Rinjani Barat merupakan salah satu KPH Model di Indonesia dan menjadi lokasi kegiatan Proyek Forest Investment Program (FIP II), sebuah proyek yang didanai oleh Climate Investment Funds dan mulai disalurkan oleh Bank Dunia sejak 2017 dan akan berakhir pada 2021.
+    </string>
+    <string name="title_activity_maps_ancol">MapsAncol</string>
+    <string name="title_activity_maps_benteng">MapsBenteng</string>
+    <string name="title_activity_maps_bukit">MapsBukit</string>
+    <string name="title_activity_maps_camp">MapsCamp</string>
+    <string name="title_activity_maps_cimahi">MapsCimahi</string>
+    <string name="title_activity_maps_cimory">MapsCimory</string>
+    <string name="title_activity_maps_gunung">MapsGunung</string>
+    <string name="title_activity_maps_kapuk">MapsKapuk</string>
+    <string name="title_activity_maps_kebun">MapsKebun</string>
+    <string name="title_activity_maps_malabar">MapsMalabar</string>
+    <string name="title_activity_maps_maribaya">MapsMaribaya</string>
+    <string name="title_activity_maps_panjang">MapsPanjang</string>
+    <string name="title_activity_maps_ragunan">MapsRagunan</string>
+    <string name="title_activity_maps_rumah">MapsRumah</string>
+    <string name="title_activity_maps_tegalalang">MapsTegalalang</string>
+    <string name="title_activity_maps_terjun">MapsTerjun</string>
+    <string name="title_activity_maps_tirta">MapsTirta</string>
+    <string name="title_activity_maps_wisata">MapsWisata</string>
+
+</resources>
